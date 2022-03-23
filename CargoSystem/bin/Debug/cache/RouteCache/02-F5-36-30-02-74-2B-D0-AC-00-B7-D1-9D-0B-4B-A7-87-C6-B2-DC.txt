@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJKx6Ipltwj0ARBHZjiBeWJOQ",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJKx6Ipltwj0ARBHZjiBeWJOQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9510869,
+               "lng" : 34.9329086
+            },
+            "southwest" : {
+               "lat" : 41.9510869,
+               "lng" : 34.9329086
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Unnamed Road, 57800 Başaran/Erfelek/Sinop, Turkey",
+               "end_location" : {
+                  "lat" : 41.9510869,
+                  "lng" : 34.9329086
+               },
+               "start_address" : "Unnamed Road, 57800 Başaran/Erfelek/Sinop, Turkey",
+               "start_location" : {
+                  "lat" : 41.9510869,
+                  "lng" : 34.9329086
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.9510869,
+                        "lng" : 34.9329086
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "iq`_GuyetE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9510869,
+                        "lng" : 34.9329086
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iq`_GuyetE"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

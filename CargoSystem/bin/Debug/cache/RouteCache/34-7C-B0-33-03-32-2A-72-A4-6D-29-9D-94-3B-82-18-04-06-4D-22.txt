@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVbogWtHDhUAREAUt4cQ618M",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVbogWtHDhUAREAUt4cQ618M",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.4755867,
+               "lng" : 34.7497047
+            },
+            "southwest" : {
+               "lat" : 41.4755867,
+               "lng" : 34.7497047
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Yeni, Unnamed Road, 57200 Boyabat/Sinop, Turkey",
+               "end_location" : {
+                  "lat" : 41.4755867,
+                  "lng" : 34.7497047
+               },
+               "start_address" : "Yeni, Unnamed Road, 57200 Boyabat/Sinop, Turkey",
+               "start_location" : {
+                  "lat" : 41.4755867,
+                  "lng" : 34.7497047
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.4755867,
+                        "lng" : 34.7497047
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "muc|Fs`bsE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.4755867,
+                        "lng" : 34.7497047
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "muc|Fs`bsE"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

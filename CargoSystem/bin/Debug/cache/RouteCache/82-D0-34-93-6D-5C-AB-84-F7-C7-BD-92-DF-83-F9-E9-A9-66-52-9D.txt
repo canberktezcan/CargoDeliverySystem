@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJs4HJsjx_hUARMsFQJQ8-B2g",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJs4HJsjx_hUARMsFQJQ8-B2g",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.847508,
+               "lng" : 34.5143747
+            },
+            "southwest" : {
+               "lat" : 41.847508,
+               "lng" : 34.5143747
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Unnamed Road, 57400 Mestan/Ayancık/Sinop, Turkey",
+               "end_location" : {
+                  "lat" : 41.847508,
+                  "lng" : 34.5143747
+               },
+               "start_address" : "Unnamed Road, 57400 Mestan/Ayancık/Sinop, Turkey",
+               "start_location" : {
+                  "lat" : 41.847508,
+                  "lng" : 34.5143747
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.847508,
+                        "lng" : 34.5143747
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "}il~FyatqE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.847508,
+                        "lng" : 34.5143747
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}il~FyatqE"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

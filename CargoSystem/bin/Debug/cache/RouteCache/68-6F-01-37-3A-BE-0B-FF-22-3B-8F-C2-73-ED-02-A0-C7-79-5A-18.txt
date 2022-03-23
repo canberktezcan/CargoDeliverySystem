@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ0WrNOBSEhUARJIF9pa1bqXU",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ0WrNOBSEhUARJIF9pa1bqXU",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.7751737,
+               "lng" : 34.639155
+            },
+            "southwest" : {
+               "lat" : 41.7751737,
+               "lng" : 34.639155
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Kızılcakaya Köyü Yolu, 57400 Bakırlızaviye/Ayancık/Sinop, Turkey",
+               "end_location" : {
+                  "lat" : 41.7751737,
+                  "lng" : 34.639155
+               },
+               "start_address" : "Kızılcakaya Köyü Yolu, 57400 Bakırlızaviye/Ayancık/Sinop, Turkey",
+               "start_location" : {
+                  "lat" : 41.7751737,
+                  "lng" : 34.639155
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.7751737,
+                        "lng" : 34.639155
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eKızılcakaya Köyü Yolu\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ye~}FumlrE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.7751737,
+                        "lng" : 34.639155
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ye~}FumlrE"
+         },
+         "summary" : "Kızılcakaya Köyü Yolu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

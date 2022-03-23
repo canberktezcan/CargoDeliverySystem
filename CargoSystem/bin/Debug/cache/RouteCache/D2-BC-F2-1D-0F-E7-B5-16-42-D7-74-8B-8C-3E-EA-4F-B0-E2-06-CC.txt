@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJvQKL6rhkj0ARmFBX-pjt_74",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJvQKL6rhkj0ARmFBX-pjt_74",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.8722715,
+               "lng" : 34.9059041
+            },
+            "southwest" : {
+               "lat" : 41.8722715,
+               "lng" : 34.9059041
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Merkez, Unnamed Road, 57800 Erfelek/Sinop, Turkey",
+               "end_location" : {
+                  "lat" : 41.8722715,
+                  "lng" : 34.9059041
+               },
+               "start_address" : "Merkez, Unnamed Road, 57800 Erfelek/Sinop, Turkey",
+               "start_location" : {
+                  "lat" : 41.8722715,
+                  "lng" : 34.9059041
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.8722715,
+                        "lng" : 34.9059041
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "udq~F{p`tE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.8722715,
+                        "lng" : 34.9059041
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "udq~F{p`tE"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

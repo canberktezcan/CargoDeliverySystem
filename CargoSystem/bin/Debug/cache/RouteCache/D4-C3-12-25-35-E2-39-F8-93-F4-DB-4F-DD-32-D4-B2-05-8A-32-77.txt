@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEdnrcFxPyxQRKkRGeH38dYk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJcz4Zb8NOyxQRmMFSj8U8OvI",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.824552,
+               "lng" : 29.911419
+            },
+            "southwest" : {
+               "lat" : 40.7799882,
+               "lng" : 29.89815
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "6.6 km",
+                  "value" : 6565
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 665
+               },
+               "end_address" : "Kulfallı, Unnamed Road, 41001 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.82139129999999,
+                  "lng" : 29.8992921
+               },
+               "start_address" : "Arızlı, Ağa Köy Yolu No:48, 41000 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7799882,
+                  "lng" : 29.899265
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "64 m",
+                        "value" : 64
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 40.7805249,
+                        "lng" : 29.899096
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eAğa Köy Yolu\u003c/b\u003e toward \u003cb\u003eDeğirmendere Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}y{wFkunuDy@BQ@I@EBCBA@EDAF"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7799882,
+                        "lng" : 29.899265
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "5.4 km",
+                        "value" : 5398
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 440
+                     },
+                     "end_location" : {
+                        "lat" : 40.8236139,
+                        "lng" : 29.9083429
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDeğirmendere Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "g}{wFktnuDJPNPLNHJDHHNFJBFBFDL?D?DAHCBCBE@G@M@O@_@@_@KOEYA]Ak@RQHMDA?OBS@QCg@Mi@S]O_@SUOc@YWSKKIIMMGGMQYg@S]GMwAwCSe@MUIMQ_@CCWc@AASYCCIIOOCCOMUQu@i@IESQe@[oA{@GEGEUSo@g@KIYSc@[_@WCCe@[{@m@UOeAw@UQQMKI[UCA_@WiAu@GEWQ_@UEAYS[SyAwA][m@i@mA_AOKWU[QYQQKk@WCA[KECOG[IUEAAUE]GSAEA]AIAYCE?}@IA?i@GWEi@IA?y@OIAa@IYE}@QICe@Ks@KOA[E{@IKAc@EC?y@IOAc@EA?EAm@Ge@Cq@IKAYCIAYCSCq@Eg@Ee@Ek@GC?[CGAQEQCQCs@KwA[e@ISEICc@Ma@ISESEME[Gc@ISGQGUGSGMCMAK?SB[DM@I@WBS?W?k@Ek@EYA[DIBWF]Da@Bc@Ba@DQ@U@]@_@?[A[?YAO@M@G@s@DY@a@@_@@E?A?i@@w@?YAKCOAGCGCAACCA?CEIIKOGKMOCCKOIKEEWS[USOOOQMOQGIIMKOOQCCCEKKGECCIGKGEAECMCMEEAEAQGg@GE?QCICMEIEEEGGCEQYACKSO[IMIGQKQIKA_@AW?C?MBKBC@OFQFGBYJi@Rs@P_@HK@SDO@u@Fq@LMB_@JQFa@LOFcARc@Bw@@YAUAc@GOCw@O_AMiAAC?c@Ai@CW@i@@a@?_@@mAB_@@_@@A@g@Fu@LKBa@HA?Y?IAG?UEOGGEIKGOIQCKEQGWGQIICCKIOKOGMEKA]EIAyAMk@?K@QBC@IBMFIFYViAhAOL]X]XURWXILA@KRMXIRKNKLKNQLw@n@k@j@MLg@d@YRSJE@C@MBKACAMAU?M?Q?MBODIBa@RSHi@Pg@H]HC?K@EAGAGCEEIK"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7805249,
+                        "lng" : 29.899096
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 780
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 135
+                     },
+                     "end_location" : {
+                        "lat" : 40.8241082,
+                        "lng" : 29.8996693
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qjdxFcnpuD?`@A\\C\\?RATJ|@D^@Z?r@?L@p@Br@Dr@HrABpA@H?^?l@A~@Al@?@CTEVMj@YvAUdAK`@KVSf@EHOZ?@KVQh@CLKh@Kn@EXAFKr@E\\AV?RAX@D?FDRFRDLHRLNBDVVLJ@@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8236139,
+                        "lng" : 29.9083429
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 323
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 40.82139129999999,
+                        "lng" : 29.8992921
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "umdxF}wnuDpFeAB?vAC~@TfBjAh@r@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8241082,
+                        "lng" : 29.8996693
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}y{wFkunuDuAFQNAFJP\\`@`@p@Lb@ANGFk@F_@@_@Ki@G]Ak@R_@NQBe@AqAa@}@c@}AiAm@q@m@eA_BeD}@iBq@cAa@a@eBoAqCoByAkA_H}EeEuCwA}@sCgCm@i@mA_Ag@a@u@c@}@c@u@YiAWuAMgBOmBWgB[gCg@{C]iD[cFe@sE_@iBY}Be@]ImBc@aB_@iA[YAo@HWBk@BiCM{AVyBNs@B{@Au@A]BwBJqABqAA[EUM[_@Y_@U[]YqAcAqAaBa@Yg@OKCy@OWCWI[Yo@mASUc@Uk@C[?m@P}Aj@sBb@eAH_APcBh@cARc@BqA?y@IgAS_AMiAAg@AaAAkA@mDHkBZc@Hc@A]EWMQ[M]Mi@Q[OM_@SaAOyAMk@?]DMDWNqChCs@l@a@f@e@bAW\\]\\cBzAu@r@m@^IBY@QCc@?_@BYHu@\\i@Pg@Ha@HQ?OEOQA~@Cp@ATJ|@Fz@?`ADdBNfCDhDCnBIl@g@bCa@fB_@~@a@~@Uv@WxAYrBAjADZL`@Vb@Z\\NLtFeAvAC~@TfBjAh@r@"
+         },
+         "summary" : "Değirmendere Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

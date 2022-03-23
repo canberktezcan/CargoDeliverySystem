@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJcz4Zb8NOyxQRmMFSj8U8OvI",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJN3FB7vNOyxQRLuS_QKOdNBg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8313459,
+               "lng" : 29.9216571
+            },
+            "southwest" : {
+               "lat" : 40.8203106,
+               "lng" : 29.8992921
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.5 km",
+                  "value" : 4508
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 593
+               },
+               "end_address" : "Kabaoğlu, Kocaeli Ünv. Kampüsü No:24, 41000 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.8203106,
+                  "lng" : 29.9202989
+               },
+               "start_address" : "Kulfallı, Unnamed Road, 41001 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.82139129999999,
+                  "lng" : 29.8992921
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 323
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 40.8241082,
+                        "lng" : 29.8996693
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "u|cxFqunuDi@s@gBkA_AUwABC?qFdA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.82139129999999,
+                        "lng" : 29.8992921
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.4 km",
+                        "value" : 2442
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 275
+                     },
+                     "end_location" : {
+                        "lat" : 40.8313072,
+                        "lng" : 29.9131815
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "umdxF}wnuDAAMKWWCEMOISEMGSES?GAE@Y?S@WD]Js@@GDYJo@Ji@BMPi@JW?AN[DIRg@JWJa@TeAXwALk@DWBU?A@m@@_A?m@?_@AICqAIsAEs@Cs@Aq@?M?s@A[E_@K}@@U?SB]@]?a@S{AACIi@UyAKi@_@sBQk@EIEKKIAAKE[KoASQCYUUS]g@OQQe@GUEWAOAK?C?a@BoA?k@Ac@E{@KuA?IAWAUGuBAIKk@GSGMKOGGGCKCIAK?A?M@MDIDGHIRA@Kj@Kf@?BIZCHIFIFMBG@SAgAIS?M@KDa@HC@a@BUAUGMGOEK?G?I@A?MBQFGBYLA@YNCBQRGJIHIRINq@`CSf@KXCNCJI^G`@AJGn@Cd@AF?LBt@@X@`@?JA@?LEJAHCD?@C@GBG?I?KAICECCEg@}@_@u@Sc@Wg@M[oA_DCKAQ?O?E@QBW@U"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8241082,
+                        "lng" : 29.8996693
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1104
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 95
+                     },
+                     "end_location" : {
+                        "lat" : 40.8249244,
+                        "lng" : 29.9214064
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKocaeli Çayırova Yolu\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uzexFklquDL@NBT@PCNCHCVKPMFIBABIFOBOBM@W@]@K?GBMBMBIDKBGRWLOPUDGBGBI@EBS@Y?u@?W@OBM@IFODMDEDEDELERC@?@?VC\\?RCLGJGBCDEDKBIBO@O?O?QAc@Am@Ag@?K?SBWDQDKFMVYZ]\\k@HSBIHYHMTe@DGN[P_@R_@JOb@a@RMr@i@hAy@d@ULIRG`A_@p@ILCJCZMXMb@[X]NWVc@HK@GH["
+                     },
+                     "start_location" : {
+                        "lat" : 40.8313072,
+                        "lng" : 29.9131815
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 116
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 40.8239718,
+                        "lng" : 29.9216205
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eKocaeli Ünv. Kampüsü\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "wrdxFy_suD@?@A@?@A@A@?@A@A@A@C@C?C@A@C?C@C?CLEJAH?LB^?p@D\\A"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8249244,
+                        "lng" : 29.9214064
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 523
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 99
+                     },
+                     "end_location" : {
+                        "lat" : 40.8203106,
+                        "lng" : 29.9202989
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit and stay on \u003cb\u003eKocaeli Ünv. Kampüsü\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "yldxFcasuD?@?@?@@@?@@@?@@@?@@??@@??@@??@@?@??@@?@?@?@?@?n@jBn@~AHRFHDBVPlA~@`DlBTJVFT@R?NA@?VGPIVKFCXSTWr@cAV_@Pa@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8239718,
+                        "lng" : 29.9216205
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "u|cxFqunuDi@s@gBkA_AUwABuFdAOM[]Wc@Ma@E[@kAXsBVyATw@`@_A^_A`@gBf@cCHm@BoBEiDOgCEeB?aAG{@K}@@UBq@@_AU_BkAaHWu@QUMG[KoASQCYUUS]g@OQQe@Mm@CaAB{BG_BOmCI_CS_AS]OKKCUAO@WJQ\\Ml@YpASNUD{AKa@@q@Pw@@c@O[EQ@i@Ny@b@Y^S\\{@pC_@`AY|AOhBF~BALEXIROBUAOGk@cAyA}CsAkDAa@FeA\\Df@Ap@SXWFKJ_@De@F_APk@x@eALk@BwBDWL]JKRKn@G\\?RCXOHIHUD_@?a@EeCBk@J]^g@Z]f@_ALc@t@wAd@_An@q@fAw@hAy@d@U`@Q`A_@p@IXGt@[b@[X]f@{@JSH[BAHEJU@GLITAl@Bp@D\\A?B@DDHFDH?~AjEP\\\\TlA~@`DlBl@Rh@@PAh@Q^OXSTWjAcBPa@"
+         },
+         "summary" : "Kocaeli Çayırova Yolu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

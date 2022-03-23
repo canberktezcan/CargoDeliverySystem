@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJB8ADtRT6nEARSG7RjabFRGo",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJB8ADtRT6nEARSG7RjabFRGo",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.1304668,
+               "lng" : 31.66464839999999
+            },
+            "southwest" : {
+               "lat" : 41.1304668,
+               "lng" : 31.66464839999999
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Unnamed Road, 67380 Karakavuz/Ereğli/Zonguldak, Turkey",
+               "end_location" : {
+                  "lat" : 41.1304668,
+                  "lng" : 31.66464839999999
+               },
+               "start_address" : "Unnamed Road, 67380 Karakavuz/Ereğli/Zonguldak, Turkey",
+               "start_location" : {
+                  "lat" : 41.1304668,
+                  "lng" : 31.66464839999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.1304668,
+                        "lng" : 31.66464839999999
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "mh`zFaog`E"
+                     },
+                     "start_location" : {
+                        "lat" : 41.1304668,
+                        "lng" : 31.66464839999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mh`zFaog`E"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

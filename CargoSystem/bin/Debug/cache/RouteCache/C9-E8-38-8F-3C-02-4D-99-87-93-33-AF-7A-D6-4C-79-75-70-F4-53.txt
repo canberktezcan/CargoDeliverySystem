@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJs87o18Nxj0ARqP9fiTQ8xeI",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJs87o18Nxj0ARqP9fiTQ8xeI",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.9663347,
+               "lng" : 34.9875891
+            },
+            "southwest" : {
+               "lat" : 41.9663347,
+               "lng" : 34.9875891
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Unnamed Road, 57000 Fidanlık/Sinop Merkez/Sinop, Turkey",
+               "end_location" : {
+                  "lat" : 41.9663347,
+                  "lng" : 34.9875891
+               },
+               "start_address" : "Unnamed Road, 57000 Fidanlık/Sinop Merkez/Sinop, Turkey",
+               "start_location" : {
+                  "lat" : 41.9663347,
+                  "lng" : 34.9875891
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.9663347,
+                        "lng" : 34.9875891
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "qpc_GmoptE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.9663347,
+                        "lng" : 34.9875891
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qpc_GmoptE"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

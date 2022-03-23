@@ -1,0 +1,277 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJcyUy7YRFyxQRBWS1ERe_wdg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJN_xwHXFPyxQRo8rgOLW1AwQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7801313,
+               "lng" : 29.9208489
+            },
+            "southwest" : {
+               "lat" : 40.7599981,
+               "lng" : 29.9096019
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.8 km",
+                  "value" : 3794
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 525
+               },
+               "end_address" : "Tüysüzler, Doğukan Sk. No:38, 41100 İzmit/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7801313,
+                  "lng" : 29.9203355
+               },
+               "start_address" : "Kemalpaşa Mh, Oramiral Salim Dervişoğlu Cd. 64-4, 41200 İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7599981,
+                  "lng" : 29.920013
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "49 m",
+                        "value" : 49
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 40.76043079999999,
+                        "lng" : 29.9201022
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "_}wwFawruDMCgAM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7599981,
+                        "lng" : 29.920013
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 40.7603039,
+                        "lng" : 29.9196923
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u_xwFswruD?t@XZ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.76043079999999,
+                        "lng" : 29.9201022
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "42 m",
+                        "value" : 42
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 40.760376,
+                        "lng" : 29.9192012
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{~wwFauruDO`B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7603039,
+                        "lng" : 29.9196923
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "66 m",
+                        "value" : 66
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 40.7609617,
+                        "lng" : 29.9191456
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k_xwF_rruDiALi@C"
+                     },
+                     "start_location" : {
+                        "lat" : 40.760376,
+                        "lng" : 29.9192012
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 448
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 40.7613169,
+                        "lng" : 29.91387199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eOramiral Salim Dervişoğlu Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_cxwFuqruDKbDC|@EtAAVGhA?JIjAI|ACLEb@Gn@Ez@?n@A`@@rA@`@@hB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7609617,
+                        "lng" : 29.9191456
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 579
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 40.7639135,
+                        "lng" : 29.9136053
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFabrika Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "gexwFupquD@TJGXLRPDP@D@J@X?\\@xB?v@CVAHCNEJEJEJA?KLCDIFGDIBWJIBKBA@ODC?G?EAGCECECEIIOQ_@ACY[CCu@q@cA}@_Ay@e@c@OK}@q@_@YOM"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7613169,
+                        "lng" : 29.91387199999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 447
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 40.7658979,
+                        "lng" : 29.9098791
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "muxwFaoquDg@g@EGOMOMCCO^Wt@Qf@yAhEOh@q@|BMf@i@hCm@vC"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7639135,
+                        "lng" : 29.9136053
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.1 km",
+                        "value" : 2055
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 236
+                     },
+                     "end_location" : {
+                        "lat" : 40.7796669,
+                        "lng" : 29.9208489
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMiralay Mümtaz Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{aywFwwpuDMv@o@Oa@Ww@k@]Wg@i@o@s@iA_AwBkBy@s@k@g@mAeAYOQKWOSGg@KKC_@Ia@C[Bs@LICGAGC{@a@gAs@e@KSEOCc@?W?K@u@DY@Q@[@G?QC_@CSA_@@C@g@FaARgALM@gADUEm@QsAi@{Ai@gA[IAMCY@wABaASMIMMKOKQMYKWMa@Qq@KYEUCOAQ?E?U?Y?Y@u@EsBKsAGe@Em@CKEWSsAIYMm@G]Wy@Kc@IWGOIICEIIGIGKGOEKQg@Oa@AGc@cAeA_CS_@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7658979,
+                        "lng" : 29.9098791
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "67 m",
+                        "value" : 67
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 40.7801313,
+                        "lng" : 29.9203355
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSarmaşık Sk.\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}w{wFi|ruDY^UVW\\A@KHEB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7796669,
+                        "lng" : 29.9208489
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_}wwFawruDuAQ?t@XZO`BiALi@CKbDIrCI`BIvAMjBMrAEjB?tBBjC@TJGXLRPFVBd@@vCCnAEXKVW^[Po@TSDMAMGKM[o@[_@}DmDsC{Bw@u@UUSQg@tAkBpFaAfDw@pD{@nEo@Oa@WuAcAwA}AaEkDeB{AmAeAYOi@[{@Sk@Ma@C[Bs@LICOE{@a@gAs@y@QOCc@?c@@}BJmAIc@BiBZuANgADUEaC{@cDeAWEqBDaASMIY]Yk@Yy@]kAIe@AgA@oAEsBKsAMsAIc@s@yDu@eC_@c@O[Ws@{BmFS_@Y^m@t@SN"
+         },
+         "summary" : "Miralay Mümtaz Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

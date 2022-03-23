@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJMyMhEDR-j0ARFpKnQV3Hu5k",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJMyMhEDR-j0ARFpKnQV3Hu5k",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.87041809999999,
+               "lng" : 34.6757831
+            },
+            "southwest" : {
+               "lat" : 41.87041809999999,
+               "lng" : 34.6757831
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Unnamed Road, 57400 Kozsökü/Ayancık/Sinop, Turkey",
+               "end_location" : {
+                  "lat" : 41.87041809999999,
+                  "lng" : 34.6757831
+               },
+               "start_address" : "Unnamed Road, 57400 Kozsökü/Ayancık/Sinop, Turkey",
+               "start_location" : {
+                  "lat" : 41.87041809999999,
+                  "lng" : 34.6757831
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.87041809999999,
+                        "lng" : 34.6757831
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "cyp~FsrsrE"
+                     },
+                     "start_location" : {
+                        "lat" : 41.87041809999999,
+                        "lng" : 34.6757831
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cyp~FsrsrE"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
